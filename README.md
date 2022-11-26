@@ -8,4 +8,4 @@ Note: If you want to view the changes I made in power query, you will need to ch
 
 Course 2: Excel Power Query Beginner to Advanced (including m)
 
-Note: It appears this course is only aviliable on Udemy for Bussiness or purchase through the creators website :(.
+Note: This course is only aviliable on Udemy for Bussiness or purchase through the creators website.
